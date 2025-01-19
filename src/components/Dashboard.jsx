@@ -48,7 +48,7 @@ const Dashboard = () => {
         <div className="bg-gradient-to-r from-[#EFF6FF] to-[#F0FDF4] rounded-xl p-8 mb-8">
           <div className="max-w-3xl mx-auto">
             <h2 className="text-3xl font-semibold text-[#1E293B] mb-3">
-              {getCurrentTimeGreeting()}, Priyansh
+              {getCurrentTimeGreeting()}, 
             </h2>
             <p className="text-[#64748B] mb-6">
               Remember to take mindful breaks and celebrate your achievements today 🌟
